@@ -1,0 +1,5 @@
+Running command: /usr/local/cpanel/3rdparty/bin/git clone --origin=origin https://zackmorty@bitbucket.org/joshuaeh/roamweb.git /home/roambyue/roamweb
+
+Cloning into '/home/roambyue/roamweb'...
+fatal: could not read Password for 'https://zackmorty@bitbucket.org': No such device or address
+/home/roambyue/roamweb may exist, and may need to be cleaned up.

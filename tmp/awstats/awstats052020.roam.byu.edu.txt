@@ -1,0 +1,298 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202005 will be lost/reset.
+# Last config file used to build this data file was /home/roambyue/tmp/awstats/awstats.roam.byu.edu.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2009                
+POS_TIME 2681                
+POS_VISITOR 6803                
+POS_DAY 7345                
+POS_DOMAIN 3226                
+POS_LOGIN 3516                
+POS_ROBOT 3671                
+POS_WORMS 3803                
+POS_EMAILSENDER 3934                
+POS_EMAILRECEIVER 4077                
+POS_SESSION 7667                
+POS_SIDER 7825                
+POS_FILETYPES 4212                
+POS_DOWNLOADS 4426                
+POS_OS 4621                
+POS_BROWSER 4760                
+POS_SCREENSIZE 4949                
+POS_UNKNOWNREFERER 5023                
+POS_UNKNOWNREFERERBROWSER 5174                
+POS_ORIGIN 5320                
+POS_SEREFERRALS 5455                
+POS_PAGEREFS 5599                
+POS_SEARCHWORDS 5747                
+POS_KEYWORDS 5899                
+POS_MISC 2345                
+POS_ERRORS 5958                
+POS_CLUSTER 3372                
+POS_SIDER_404 6055                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20200601114202 1 0 10878641553463
+FirstTime 20200504141857
+LastTime 20200529023825
+LastUpdate 20200601123310 1 0 0 0 0
+TotalVisits 12                  
+TotalUnique 10                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 12                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+TotalMisc 0 0 0
+QuickTimeSupport 0 0 0
+RealPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+PDFSupport 0 0 0
+JavascriptDisabled 0 0 0
+FlashSupport 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+AddToFavourites 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 0 0 0 0 0 0
+2 3 4 133 51 54 0
+3 0 16 1232 0 0 0
+4 0 0 0 0 0 0
+5 4 29 15343971 0 0 0
+6 0 0 0 0 0 0
+7 3 31 27394396 0 0 0
+8 0 0 0 0 0 0
+9 0 0 0 0 0 0
+10 0 0 0 0 0 0
+11 0 0 0 0 0 0
+12 2 24 25828366 2 2 25480
+13 0 0 0 0 0 0
+14 2 24 14070132 0 0 0
+15 3 26 14194208 0 1 0
+16 0 0 0 0 0 0
+17 0 0 0 0 0 0
+18 0 0 0 0 0 0
+19 0 0 0 0 0 0
+20 5 49 28157404 0 0 0
+21 0 0 0 0 0 0
+22 3 24 13975936 0 0 0
+23 0 0 0 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 5
+us 20 174 110812466
+pg 2 23 13958796
+sk 2 24 14070132
+ca 1 2 124076
+gb 0 4 308
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+css 30 4761440 0 0
+txt 17 1296 0 0
+html 11 140140 0 0
+jpg 10 118695700 0 0
+woff2 11 188540 0 0
+Unknown 3 69 0 0
+js 121 5265923 0 0
+png 24 9912670 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 2
+/.well-known/pki-validation/1785E0B7056C4F98DD89CECD113E2F22.txt 16 0 1232
+/.well-known/pki-validation/2E3FBF5E5A770EB10B0DA2F02246B8CE.txt 1 0 64
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 5
+ios_iphone 12 2
+win10 148 16
+macosx11 24 2
+linuxandroid 23 2
+Unknown 20 3
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 7
+Unknown 20 3
+edge18 74 9
+safari13.1 12 2
+chrome79.0.3945.79 2 1
+chrome81.0.4044.138 24 2
+chrome81.0.4044.129 72 6
+chrome80.0.3987.132 23 2
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+COMODO_DCV 20200520030812
+python-requests/2.22.0 20200529023825
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+python-requests/2.22.0 20200529023825
+COMODO_DCV 20200520030812
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 13 32
+From1 1 1
+From2 0 0
+From3 0 0
+From4 11 194
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+404 54 0
+206 2 25480
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 20
+/config/database.yml 3 -
+/wallet.dat 3 -
+/.ssh/id_dsa 3 -
+/server.key 3 -
+/privatekey.key 3 -
+/sites/default/private/files/backup_migrate/scheduled/test.txt 3 -
+/app/etc/local.xml 3 -
+/.ssh/id_rsa 3 -
+/www.mail.roam.byu.edu.key 1 -
+/key.pem 3 -
+/.svn/entries 3 -
+/myserver.key 3 -
+/roam.byu.edu.key 2 -
+/.env 3 -
+/id_rsa 3 -
+/www.roam.byu.edu.key 2 -
+/config/databases.yml 3 -
+/mail.roam.byu.edu.key 1 -
+/sftp-config.json 3 -
+/id_dsa 3 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 12
+136.36.211.159 6 49 39821442 20200527054859
+34.218.75.68 3 3 69 20200529023825
+174.148.50.5 3 25 14087272 20200507201720
+128.187.116.26 2 24 14070132 20200521152815
+212.89.242.243 2 24 14070132 20200505074917
+136.36.54.224 2 12 14692299 20200523054356
+136.36.7.70 2 24 14070132 20200504141858
+124.240.214.84 2 23 13958796 20200519123537
+66.219.250.208 2 24 14070132 20200523202243
+142.93.147.165 1 2 124076 20200520152457
+167.99.109.5 0 13 988 
+91.199.212.132 0 4 308 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 11
+20200504 2 24 14070132 1
+20200505 2 24 14070132 1
+20200507 3 25 14087272 1
+20200517 1 7 13324264 1
+20200518 3 24 13975936 1
+20200519 2 24 25828366 1
+20200520 1 19 125372 1
+20200521 2 24 14070132 1
+20200523 3 29 15438167 2
+20200527 3 24 13975936 1
+20200529 3 3 69 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+0s-30s 11
+5mn-15mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 3
+/ 11 140140 11 3
+/assets/fonts/nucleo-icons.woff2 11 188540 0 8
+/.git/HEAD 3 69 1 1
+END_SIDER

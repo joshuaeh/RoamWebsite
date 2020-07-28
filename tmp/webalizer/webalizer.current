@@ -1,0 +1,237 @@
+# Webalizer V2.23-08 Incremental Data - 07/25/2020 05:54:59
+2020 7 25 5 54 59
+94 94 16 25 6 5 43321569 7 7 0
+1 2 50 12 25
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+23 23 13958796 1 1 1
+0 0 0 0 0 0
+53 53 28623465 3 3 3
+0 0 0 0 0 0
+0 0 0 0 0 0
+16 16 713828 10 1 1
+1 1 12740 1 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+1 1 12740 1 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+2 2 25480 2
+0 0 0 0
+23 23 13958796 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+16 16 713828 1
+47 47 28028928 2
+0 0 0 0
+0 0 0 0
+6 6 594537 1
+0 0 0 0
+0 0 0 0
+0
+0
+0
+94
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/assets/js/plugins/bootstrap-tagsinput.js
+0 4 0 84600 0 0
+/assets/js/core/jquery.min.js
+0 5 0 433295 0 0
+/assets/css/bootstrap.min.css
+0 5 0 778795 0 0
+/assets/js/core/bootstrap.min.js
+0 4 0 232292 0 0
+/assets/js/plugins/bootstrap-switch.js
+0 4 0 105056 0 0
+/assets/img/J-icons/BYUIcon.png
+0 3 0 169929 0 0
+/assets/img/J-backgrounds/sunFlowers.jpg
+0 3 0 35608710 0 0
+/assets/js/plugins/presentation-page/main.js
+0 3 0 286812 0 0
+/assets/fonts/nucleo-icons.woff2
+0 3 0 51420 0 0
+/assets/js/plugins/photo_swipe/init-gallery.js
+0 4 0 21888 0 0
+/assets/js/paper-kit.js
+0 3 0 60336 0 0
+/assets/img/J-icons/ROAM_title.png
+0 3 0 2637453 0 0
+/assets/css/paper-kit.css
+0 4 0 1281020 0 0
+/assets/js/core/popper.min.js
+0 5 0 94970 0 0
+/assets/js/plugins/bootstrap-datetimepicker.js
+0 4 0 360880 0 0
+/assets/js/plugins/photo_swipe/photoswipe-ui-default.min.js
+0 4 0 39516 0 0
+/assets/js/plugins/moment.min.js
+0 4 0 205860 0 0
+/
+0 6 0 76440 6 0
+/assets/css/myStyles.css
+0 5 0 650 0 0
+/assets/js/plugins/jasny-bootstrap.min.js
+0 4 0 26780 0 0
+/content/group
+0 1 0 26247 1 0
+/assets/js/plugins/photo_swipe/photoswipe.min.js
+0 4 8818449809525798005 127620 0 0
+/assets/js/plugins/nouislider.min.js
+0 4 6178458 93132 0 0
+/assets/js/plugins/bootstrap-selectpicker.js
+0 4 72057594037955951 406532 0 0
+/assets/img/J-icons/color-prism.png
+0 1 120325172782444 111336 0 0
+# End Of Table - urls
+# -sites- (monthly)
+209.213.47.48
+0 6 6 594537 1 1594761103
+/
+179.209.226.35.bc.googleusercontent.com
+0 1 1 12740 1 1595656499
+/
+bytespider-60-8-151-158.crawl.bytedance.com
+0 4 4 223041 0 0
+-
+bytespider-60-8-151-169.crawl.bytedance.com
+0 1 1 21150 0 0
+-
+bytespider-60-8-151-159.crawl.bytedance.com
+0 1 1 5472 0 0
+-
+bytespider-60-8-151-152.crawl.bytedance.com
+0 1 1 26247 1 1595006977
+/content/group
+bytespider-60-8-151-163.crawl.bytedance.com
+0 3 3 174883 0 0
+-
+bytespider-60-8-151-161.crawl.bytedance.com
+0 1 1 26264 0 0
+-
+bytespider-60-8-151-165.crawl.bytedance.com
+0 1 1 9879 0 0
+-
+128.187.112.7
+0 23 23 13958796 1 1594753082
+/
+bytespider-60-8-151-150.crawl.bytedance.com
+0 1 1 6695 0 0
+-
+bytespider-60-8-151-162.crawl.bytedance.com
+0 1 1 86659 0 0
+-
+225.43.148.146.bc.googleusercontent.com
+0 1 1 12740 1 1595051747
+/
+bytespider-60-8-151-154.crawl.bytedance.com
+0 2 2 133538 0 0
+-
+128.187.116.20
+0 24 24 14070132 1 1594753043
+/
+cache.google.com
+0 23 23 13958796 1 1594537926
+/
+# End Of Table - sites (monthly)
+# -sites- (daily)
+179.209.226.35.bc.googleusercontent.com
+0 1 1 12740 1 1595656499
+/
+# End Of Table - sites (daily)
+# -referrers- 
+http://www.roam.byu.edu/content/group
+0 15
+- (Direct Request)
+0 7
+http://mail.roam.byu.edu/
+0 21
+http://roam.byu.edu/assets/css/paper-kit.css
+0 2
+http://mail.roam.byu.edu/assets/css/paper-kit.css
+0 1
+http://roam.byu.edu/
+0 48
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Linux; Android 5.0) AppleWebKit/537.36 (KHTML, like Gecko) Mobile Safari/537.36 (compatible; Bytespider; https:/
+0 16
+Mozilla/5.0 (Linux; Android 9; SM-N950U) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.106 Mobile Safari/537.36
+0 24
+python-requests/2.22.0
+0 2
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Mobile/15E14
+0 6
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+0 46
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames

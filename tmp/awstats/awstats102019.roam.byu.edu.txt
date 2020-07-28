@@ -1,0 +1,304 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 201910 will be lost/reset.
+# Last config file used to build this data file was /home/roambyue/tmp/awstats/awstats.roam.byu.edu.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2009                
+POS_TIME 2681                
+POS_VISITOR 6540                
+POS_DAY 7634                
+POS_DOMAIN 3243                
+POS_LOGIN 3504                
+POS_ROBOT 3659                
+POS_WORMS 3828                
+POS_EMAILSENDER 3959                
+POS_EMAILRECEIVER 4102                
+POS_SESSION 7932                
+POS_SIDER 8089                
+POS_FILETYPES 4237                
+POS_DOWNLOADS 4450                
+POS_OS 4599                
+POS_BROWSER 4736                
+POS_SCREENSIZE 5175                
+POS_UNKNOWNREFERER 5249                
+POS_UNKNOWNREFERERBROWSER 5336                
+POS_ORIGIN 5418                
+POS_SEREFERRALS 5552                
+POS_PAGEREFS 5696                
+POS_SEARCHWORDS 5844                
+POS_KEYWORDS 5996                
+POS_MISC 2345                
+POS_ERRORS 6055                
+POS_CLUSTER 3360                
+POS_SIDER_404 6139                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20191101062730 1 0 11973509102503
+FirstTime 20191002134113
+LastTime 20191029182552
+LastUpdate 20191101123233 1 0 0 0 0
+TotalVisits 11                  
+TotalUnique 11                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 33                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+JavaEnabled 0 0 0
+FlashSupport 0 0 0
+PDFSupport 0 0 0
+AddToFavourites 0 0 0
+QuickTimeSupport 0 0 0
+JavascriptDisabled 0 0 0
+DirectorSupport 0 0 0
+RealPlayerSupport 0 0 0
+TotalMisc 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 2 24 14070132 0 0 0
+2 6 61 177597920 0 0 0
+3 0 0 0 0 0 0
+4 0 0 0 0 0 0
+5 0 0 0 0 0 0
+6 0 0 0 0 0 0
+7 0 0 510454072 1 16 725752
+8 0 0 0 0 0 0
+9 0 0 0 0 0 0
+10 0 7 685813 1 14 948179
+11 1 2 19435 1 3 31585
+12 0 0 0 1 1 136036275
+13 1 1 12740 0 0 0
+14 4 48 28155012 0 0 0
+15 0 0 0 0 0 0
+16 0 0 0 0 0 0
+17 0 0 0 0 0 0
+18 5 49 164176539 0 0 0
+19 0 0 0 1 15 774123
+20 0 0 0 0 0 0
+21 0 0 0 0 0 0
+22 0 0 0 0 0 0
+23 0 0 0 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 3
+us 17 182 383999603
+cn 1 9 255932284
+eu 1 1 12740
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 1
+spider 48 138515914 20191018071415 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 8
+png 23 8320397 0 0
+jpg 8 94956560 0 0
+css 25 4129407 0 0
+js 117 4972149 0 0
+apk 2 272072550 0 0
+eot 1 31888 0 0
+woff2 7 119980 0 0
+html 9 114660 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 2
+/assets/video/sandBoilVideo.mp4 0 3 61752294
+/assets/video/optimizedFlightPlanning.MP4 0 1 193474742
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 5
+linuxandroid 31 2
+ios_ipad 1 1
+macosx 14 2
+ios_iphone 28 2
+win10 122 12
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 17
+chrome77.0.3865.90 72 6
+chrome42.0.4984.1153 1 0
+chrome47.0.3853.1414 1 0
+safari12.0 1 1
+chrome77.0.3865.116 23 2
+chrome57.0.5626.1432 4 0
+chrome60.0.3318.1911 1 0
+safari13.0.2 14 2
+chrome43.0.4936.1556 1 0
+msie11.0 24 2
+chrome39.0.4075.1251 1 0
+chrome45.0.2784.1683 1 0
+chrome52.0.8857.1935 1 0
+chrome77.0.3865.120 25 3
+safari12.1.2 24 2
+chrome43.0.9916.1280 1 0
+chrome72.0.3626.119 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 0
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 10 19
+From1 0 0
+From2 0 0
+From3 0 0
+From4 9 177
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 1
+404 1 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 1
+/assets/video/optimizedFlightPlanningMovFile.MP4 1 http://www.roam.byu.edu/content/research
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 33
+128.187.116.3 3 25 150106407 20191029182552
+67.163.64.61 2 24 14070132 20191023015112
+128.187.112.27 2 24 14070132 20191009021259
+128.187.112.12 2 24 14070132 20191007184138
+69.161.88.205 2 14 149514299 20191015023138
+65.152.56.26 2 24 14084880 20191023141517
+128.187.116.31 2 24 14070132 20191017145411
+66.102.6.59 1 2 36134 20191016025650
+66.102.6.77 1 1 12740 20191016025649
+178.62.196.82 1 1 12740 20191012115737
+111.7.100.22 1 1 12740 20191002134113
+64.233.172.73 0 1 21150 
+66.102.6.61 0 4 477076 
+220.243.136.252 0 1 86659 
+64.233.172.203 0 1 90220 
+64.233.172.75 0 1 86659 
+66.102.6.234 0 1 26264 
+66.102.6.144 0 2 11869700 
+220.243.136.24 0 1 6695 
+220.243.136.63 0 5 541081 
+111.225.149.87 0 1 30824300 
+111.225.149.101 0 1 30269 
+66.102.6.173 0 1 6695 
+66.102.6.9 0 2 25584 
+111.225.149.88 0 1 193474742 
+66.102.6.13 0 1 111336 
+64.233.172.41 0 1 879151 
+66.102.6.169 0 1 9879 
+220.243.135.140 0 1 58073 
+64.233.172.45 0 1 155759 
+66.102.6.62 0 2 147069 
+111.225.149.95 0 1 30897725 
+64.233.172.169 0 1 58073 
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 10
+20191002 1 1 12740 1
+20191007 2 24 14070132 1
+20191008 0 7 685813 0
+20191009 2 25 14076827 1
+20191012 1 1 12740 1
+20191015 2 14 149514299 1
+20191016 2 23 14013489 2
+20191017 2 24 14070132 1
+20191023 4 48 28155012 2
+20191029 3 25 150106407 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+0s-30s 10
+30s-2mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 4
+/ 9 114660 9 3
+/assets/fonts/nucleo-icons.woff2 7 119980 2 5
+/assets/files/Volare.apk 2 272072550 0 2
+/assets/fonts/nucleo-icons.eot 1 31888 0 1
+END_SIDER

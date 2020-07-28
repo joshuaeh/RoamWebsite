@@ -1,0 +1,1 @@
+{"mode":"simple","status":1,"statusmsg":"Ran adminbin Cpanel/ftp/LISTSTORE","exit_code":0,"error":0,"action":"fetch","version":"2.4","timeout":0,"data":[{"homedir":"/home/roambyue","type":"main","user":"roambyue"},{"user":"roambyue_logs","homedir":"/etc/apache2/logs/domlogs/roambyue","type":"logaccess"}]}

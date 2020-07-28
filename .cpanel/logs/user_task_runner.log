@@ -1,0 +1,4 @@
+2019-08-02T19:49:56Z: Processing 00000000/5d4493e4230751...
+2019-08-02T19:49:56Z:   doing Cpanel::UserTasks::VersionControl::create
+2019-08-02T19:49:57Z:   FAILURE: (XID bnwt3w) “/usr/local/cpanel/3rdparty/bin/git” reported error code “128” when it ended: 
+2019-08-02T19:49:57Z: Queue empty, terminating

@@ -1,0 +1,360 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 201908 will be lost/reset.
+# Last config file used to build this data file was /home/roambyue/tmp/awstats/ssl/awstats.roam.byu.edu.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2013                
+POS_TIME 2684                
+POS_VISITOR 8221                
+POS_DAY 9175                
+POS_DOMAIN 3241                
+POS_LOGIN 3486                
+POS_ROBOT 3641                
+POS_WORMS 3773                
+POS_EMAILSENDER 3904                
+POS_EMAILRECEIVER 4047                
+POS_SESSION 9526                
+POS_SIDER 9694                
+POS_FILETYPES 4182                
+POS_DOWNLOADS 4455                
+POS_OS 4680                
+POS_BROWSER 4799                
+POS_SCREENSIZE 4998                
+POS_UNKNOWNREFERER 5072                
+POS_UNKNOWNREFERERBROWSER 5299                
+POS_ORIGIN 5381                
+POS_SEREFERRALS 5516                
+POS_PAGEREFS 5660                
+POS_SEARCHWORDS 5808                
+POS_KEYWORDS 5960                
+POS_MISC 2348                
+POS_ERRORS 6019                
+POS_CLUSTER 3342                
+POS_SIDER_404 6114                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20190908194914 1 0 8221024768015
+FirstTime 20190803064849
+LastTime 20190830150430
+LastUpdate 20190909124053 1 0 0 0 0
+TotalVisits 26                  
+TotalUnique 22                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 22                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+DirectorSupport 0 0 0
+RealPlayerSupport 0 0 0
+PDFSupport 0 0 0
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+FlashSupport 0 0 0
+AddToFavourites 0 0 0
+TotalMisc 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 0 0 0 0 0
+1 0 0 0 0 0 0
+2 1 1 12740 0 0 0
+3 0 0 0 0 0 0
+4 0 0 0 0 0 0
+5 0 0 0 0 0 0
+6 1 1 36688 0 0 0
+7 0 0 0 0 0 0
+8 0 0 0 54 54 0
+9 0 0 0 0 0 0
+10 0 0 0 0 0 0
+11 6 6 76452 0 0 0
+12 4 48 28140276 0 0 0
+13 0 0 0 0 0 0
+14 6 9 107678 7 13 364
+15 1 1 12740 3 6 0
+16 1 2 124076 0 0 0
+17 0 0 0 0 0 0
+18 0 0 0 0 0 0
+19 5 48 164065203 0 0 0
+20 1 1 12694 0 0 0
+21 3 24 13971536 0 0 0
+22 4 39 20793902 0 0 0
+23 13 56 557587253 10 11 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 2
+us 40 227 530120424
+nl 6 9 107678
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 11
+png 24 8593010 0 0
+Unknown 6 108664 0 0
+txt 3 35238 0 0
+jpg 35 121243725 0 0
+css 21 3333008 0 0
+apk 1 136036275 0 0
+js 105 4531856 0 0
+woff2 7 119980 0 0
+html 31 415878 0 0
+jpeg 2 471378 0 0
+map 1 625954 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 5
+///README.txt 1 0 11747
+///CHANGELOG.txt 1 0 11750
+///license.txt 1 0 11741
+/assets/video/optimizedFlightPlanning.MP4 0 1 193474742
+/assets/video/sandBoilVideo.mp4 0 3 61238394
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 4
+win10 189 20
+Unknown 11 8
+linux 15 15
+ios_iphone 25 3
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 7
+chrome59.0.3071.104 15 15
+chrome75.0.3770.100 50 6
+firefox47.0 9 6
+mozilla 2 2
+safari12.1.1 25 3
+chrome75.0.3770.142 24 2
+chrome76.0.3809.100 115 12
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+Mozilla/5.0_Gecko/20100101_Firefox/47.0 20190830150430
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20190810205403
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 0
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 28 31
+From1 0 0
+From2 0 0
+From3 0 0
+From4 18 209
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+401 7 364
+404 77 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 63
+/index.php/admin/ 1 -
+/dev/index.php/admin/ 1 -
+/rss/catalog/review 1 -
+/shop/rss/catalog/notifystock 1 -
+/old/rss/catalog/review 1 -
+/stab0w2h 1 -
+/magento/downloader/index.php 1 -
+/shop/errors/503.php 1 -
+/magento/rss/catalog/review 1 -
+/demo/downloader/index.php 1 -
+/old/errors/503.php 1 -
+/test/rss/catalog/review 1 -
+/demo/index.php/admin/ 1 -
+///readme.html 4 -
+/demo/rss/order/new 1 -
+/store/errors/503.php 1 -
+/magento/rss/catalog/notifystock 1 -
+/dev/rss/order/new 1 -
+/demo/rss/catalog/review 1 -
+/test/index.php/admin/ 1 -
+/store/downloader/index.php 1 -
+/assets/css/kit-pro.css.map 5 -
+/test/rss/order/new 1 -
+/store/index.php/admin/ 1 -
+/staging/rss/order/new 1 -
+/staging/errors/503.php 1 -
+/old/rss/catalog/notifystock 1 -
+/dev/downloader/index.php 1 -
+/store/rss/catalog/notifystock 1 -
+///CHANGELOG.txt 2 -
+/magento/index.php/admin/ 1 -
+/store/rss/order/new 1 -
+/dev/rss/catalog/notifystock 1 -
+/downloader/index.php 1 -
+/staging/index.php/admin/ 1 -
+/old/index.php/admin/ 1 -
+/rss/catalog/notifystock 1 -
+/shop/rss/catalog/review 1 -
+/demo/rss/catalog/notifystock 1 -
+/assets/video/optimizedFlightPlanningMovFile.MP4 1 https://roam.byu.edu/content/research
+/staging/rss/catalog/review 1 -
+/dev/rss/catalog/review 1 -
+/store/rss/catalog/review 1 -
+/test/rss/catalog/notifystock 1 -
+/shop/rss/order/new 1 -
+/dev/errors/503.php 1 -
+/rss/order/new 1 -
+/shop/index.php/admin/ 1 -
+/errors/503.php 1 -
+/u78p62hv 1 -
+/old/rss/order/new 1 -
+/staging/rss/catalog/notifystock 1 -
+/magento/rss/order/new 1 -
+/magento/errors/503.php 1 -
+/old/downloader/index.php 1 -
+/demo/errors/503.php 1 -
+/test/downloader/index.php 1 -
+/assets/js/core/bootstrap.min.js.map 5 -
+/staging/downloader/index.php 1 -
+///license.txt 2 -
+/shop/downloader/index.php 1 -
+///README.txt 2 -
+/test/errors/503.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 22
+50.204.38.62 8 74 178259423 20190814195000
+72.191.120.126 7 64 46635008 20190816220920
+139.162.192.40 6 9 107678 20190830150430
+128.187.112.27 6 52 290915355 20190812230713
+128.187.116.1 2 24 14070132 20190829194258
+35.224.20.254 1 1 12746 20190814110748
+35.225.59.205 1 1 12740 20190818111230
+35.222.77.30 1 1 12746 20190813230701
+34.68.175.172 1 1 12746 20190813110436
+104.197.27.183 1 1 12746 20190813230742
+35.192.221.237 1 1 12740 20190815230904
+35.238.147.75 1 1 12740 20190817231113
+35.222.234.222 1 1 12740 20190816110839
+167.71.96.107 1 1 36688 20190803064849
+35.193.185.63 1 1 12740 20190820021836
+34.66.114.216 1 1 12740 20190816230934
+35.194.61.22 1 1 12740 20190815110836
+35.188.69.72 1 1 12740 20190817111039
+167.99.124.217 1 1 12694 20190810205403
+34.66.170.146 1 1 12740 20190814230839
+35.192.150.48 1 1 12740 20190820215140
+35.232.120.188 1 1 12740 20190819141732
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 13
+20190803 1 1 36688 1
+20190810 1 1 12694 1
+20190812 6 48 545628491 1
+20190813 3 3 38238 3
+20190814 13 101 204126015 7
+20190815 2 2 25480 2
+20190816 6 41 20819382 3
+20190817 2 2 25480 2
+20190818 1 1 12740 1
+20190819 1 1 12740 1
+20190820 2 2 25480 2
+20190829 2 24 14070132 1
+20190830 6 9 107678 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 3
+5mn-15mn 2
+2mn-5mn 1
+0s-30s 23
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 9
+/ 29 392390 26 20
+/assets/fonts/nucleo-icons.woff2 7 119980 0 3
+//readme.html 2 23488 0 0
+/content/group 2 52494 0 0
+/content/contactUs 2 24922 0 2
+/assets/css/bootstrap.min.css.map 1 625954 0 0
+/2vbob9bp 1 11746 0 0
+/content/research 1 19502 0 0
+/assets/files/Volare.apk 1 136036275 0 1
+END_SIDER
